@@ -1,0 +1,379 @@
+C:\Users\bethoven\source\repos\Demo\Store\bin\Store.dll.config
+C:\Users\bethoven\source\repos\Demo\Store\bin\Store.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\Store.pdb
+C:\Users\bethoven\source\repos\Demo\Store\bin\Store.xml
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\csc.exe
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\csc.exe.config
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\csc.rsp
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\csi.exe
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\csi.exe.config
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\csi.rsp
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.AppContext.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Console.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\vbc.exe
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\vbc.exe.config
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\vbc.rsp
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\bethoven\source\repos\Demo\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bethoven\source\repos\Demo\Store\bin\AjaxControlToolkit.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\ClassLibrary2.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\EntityFramework.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\EntityFramework.SqlServer.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\Telerik.Reporting.dll
+C:\Users\bethoven\source\repos\Demo\Store\bin\ClassLibrary2.pdb
+C:\Users\bethoven\source\repos\Demo\Store\bin\ClassLibrary2.xml
+C:\Users\bethoven\source\repos\Demo\Store\bin\ClassLibrary2.dll.config
+C:\Users\bethoven\source\repos\Demo\Store\bin\EntityFramework.xml
+C:\Users\bethoven\source\repos\Demo\Store\bin\EntityFramework.SqlServer.xml
+C:\Users\bethoven\source\repos\Demo\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bethoven\source\repos\Demo\Store\bin\Telerik.Reporting.pdb
+C:\Users\bethoven\source\repos\Demo\Store\bin\Telerik.Reporting.xml
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.vbprojResolveAssemblyReference.cache
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.Resources.resources
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.orderReport.resources
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.vbproj.GenerateResource.cache
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.dll.licenses
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.vbproj.CoreCompileInputs.cache
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.vbproj.CopyComplete
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.dll
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.xml
+C:\Users\bethoven\source\repos\Demo\Store\obj\Debug\Store.pdb
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Store.dll.config
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Store.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Store.pdb
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Store.xml
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\csc.exe
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\csc.exe.config
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\csc.rsp
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\csi.exe
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\csi.exe.config
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\csi.rsp
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.AppContext.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Console.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\vbc.exe
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\vbc.exe.config
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\vbc.rsp
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\AjaxControlToolkit.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Telerik.Reporting.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.pdb
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.xml
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.dll.config
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.xml
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.xml
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Telerik.Reporting.pdb
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\bin\Telerik.Reporting.xml
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbprojResolveAssemblyReference.cache
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.Resources.resources
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.orderReport.resources
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.GenerateResource.cache
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.dll.licenses
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CoreCompileInputs.cache
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CopyComplete
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.dll
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.xml
+C:\Users\bethoven\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.pdb
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\Store.dll.config
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\Store.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\Store.pdb
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\Store.xml
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\csc.exe
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\csc.exe.config
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\csc.rsp
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\csi.exe
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\csi.exe.config
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\csi.rsp
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.AppContext.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Console.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Threading.Thread.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\vbc.exe
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\vbc.exe.config
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\vbc.rsp
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\AjaxControlToolkit.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\ClassLibrary2.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\EntityFramework.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\ClassLibrary2.pdb
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\ClassLibrary2.xml
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\ClassLibrary2.dll.config
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\EntityFramework.xml
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.xml
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.vbprojAssemblyReference.cache
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.Resources.resources
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.orderReport.resources
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.GenerateResource.cache
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.dll.licenses
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CoreCompileInputs.cache
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CopyComplete
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.dll
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.xml
+C:\Users\perlas\Desktop\Software Development\Sotware\Dev\DemoCopy\Store\obj\Debug\Store.pdb
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Store.dll.config
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Store.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Store.pdb
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Store.xml
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\csc.exe
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\csc.exe.config
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\csc.rsp
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\csi.exe
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\csi.exe.config
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\csi.rsp
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.AppContext.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Console.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Threading.Thread.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\vbc.exe
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\vbc.exe.config
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\vbc.rsp
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\AjaxControlToolkit.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\ClassLibrary2.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\EntityFramework.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Telerik.Reporting.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\ClassLibrary2.pdb
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\ClassLibrary2.xml
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\ClassLibrary2.dll.config
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\EntityFramework.xml
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.xml
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Telerik.Reporting.pdb
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\bin\Telerik.Reporting.xml
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.vbprojResolveAssemblyReference.cache
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.Resources.resources
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.GenerateResource.cache
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.dll.licenses
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CoreCompileInputs.cache
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CopyComplete
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.dll
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.xml
+C:\Users\bethoven\Desktop\Dev\New folder\Dev\DemoCopy\Store\obj\Debug\Store.pdb
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Store.dll.config
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Store.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Store.pdb
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Store.xml
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\csc.exe
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\csc.exe.config
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\csc.rsp
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\csi.exe
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\csi.exe.config
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\csi.rsp
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.AppContext.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Console.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Threading.Thread.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\vbc.exe
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\vbc.exe.config
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\vbc.rsp
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\AjaxControlToolkit.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Microsoft.AspNet.EntityDataSource.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.pdb
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.xml
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\ClassLibrary2.dll.config
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.xml
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\EntityFramework.SqlServer.xml
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Telerik.Reporting.pdb
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\bin\Telerik.Reporting.xml
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbprojAssemblyReference.cache
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.Resources.resources
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.GenerateResource.cache
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.dll.licenses
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CoreCompileInputs.cache
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.vbproj.CopyComplete
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.dll
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.xml
+C:\Users\perlas\Desktop\Dev\DemoCopy\Store\obj\Debug\Store.pdb

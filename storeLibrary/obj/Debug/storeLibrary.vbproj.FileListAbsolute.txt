@@ -1,0 +1,16 @@
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\storeLibrary.dll.config
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\storeLibrary.dll
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\storeLibrary.pdb
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\storeLibrary.xml
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\EntityFramework.dll
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\EntityFramework.xml
+C:\Users\bethoven\source\repos\Demo\storeLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.Resources.resources
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.vbproj.GenerateResource.cache
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.vbproj.CopyComplete
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.dll
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.xml
+C:\Users\bethoven\source\repos\Demo\storeLibrary\obj\Debug\storeLibrary.pdb

@@ -1,0 +1,10 @@
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\bin\Debug\StoreClasssLibrary.dll
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\bin\Debug\StoreClasssLibrary.pdb
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\bin\Debug\StoreClasssLibrary.xml
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\obj\Debug\StoreClasssLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\obj\Debug\StoreClasssLibrary.Resources.resources
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\obj\Debug\StoreClasssLibrary.vbproj.GenerateResource.cache
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\obj\Debug\StoreClasssLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\obj\Debug\StoreClasssLibrary.dll
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\obj\Debug\StoreClasssLibrary.xml
+C:\Users\bethoven\source\repos\Demo\StoreClasssLibrary\obj\Debug\StoreClasssLibrary.pdb

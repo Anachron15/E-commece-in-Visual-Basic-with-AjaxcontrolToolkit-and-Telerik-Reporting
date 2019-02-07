@@ -1,0 +1,8 @@
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\obj\Debug\storeLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\obj\Debug\storeLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\bethoven\source\repos\Demo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
